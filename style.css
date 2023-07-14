@@ -174,6 +174,40 @@ font-weight: 600;
 
 .last-contiainer
 {
+    margin-top: 50px;
     background-image: url("./FlowerAsset/Rectangle\ 9.png");
 }
 
+span
+{
+    color: palevioletred;
+}
+
+.spaned
+{
+    color: white;
+}
+
+.counter
+{
+    color: palevioletred;
+}
+
+.texted
+{
+    text-align: center;
+    background-color: black;
+    height: 500px;
+   padding-top: 70px;
+
+}
+
+footer
+{
+    margin-top: 150px;
+}
+
+.last-p
+{
+    color: aliceblue;
+}
