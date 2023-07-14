@@ -95,13 +95,11 @@ font-weight: 600;
     background-color: rgb(184, 180, 180);
     width: 1000px;
     height: 300px;
-    gap: 200px;
-    margin-left: 300px;
+    gap: 150px;
+    margin-left: 400px;
     margin-top: 40px;
+    border-radius: 10px;
     
 }
 
-.contianer-third img
-{
-    padding-top: 200px;
-}
+
