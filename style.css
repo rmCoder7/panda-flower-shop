@@ -132,3 +132,48 @@ font-weight: 600;
     margin-top: 100px;
 }
 
+
+.div
+{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+
+
+.text-zone
+{
+   text-align: center;
+}
+
+.search
+{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.width
+{
+    width: 400px;
+}
+
+.submit
+{
+    height: 40px;
+    width: 80px;
+    background-color: palevioletred;
+    border: 0;
+    border-radius: 4px;
+    color: azure;
+    
+}
+
+.last-contiainer
+{
+    background-image: url("./FlowerAsset/Rectangle\ 9.png");
+}
+
