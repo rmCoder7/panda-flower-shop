@@ -1,0 +1,88 @@
+body
+{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+.main-div
+{
+    display: flex;
+    align-items: center;
+   padding-left: 150px;
+    background-color: rgb(237, 209, 214);
+    
+}
+
+.top-image{
+
+    width: 500px;
+   padding-right: 200px;
+}
+
+.first-btn
+{
+background-color: rgb(245, 121, 142);
+padding: 20px;
+border-radius: 5px;
+border: 0;
+color: whitesmoke;
+font-weight: 600;
+}
+
+.inner-div
+{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+
+.contianer-features
+{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.links
+{
+    display: flex;
+    gap: 200px;
+    padding-left: 350px;
+}
+
+.id-linked
+{
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+#id-linkes
+{
+    padding-left: 100px;
+    padding-top: 20px;
+     
+}
+.first-pic
+{
+    background-color: pink;
+    height: 500px;
+    border-top-left-radius: 80px 80px;
+    border-top-right-radius: 80px 80px;
+}
+
+.second-pic
+{
+    background-color: skyblue;
+    height: 500px;
+    border-top-left-radius: 80px 80px;
+    border-top-right-radius: 80px 80px;
+}
+
+.third-pic
+{
+    background-color: rgb(115, 171, 115);
+    height: 500px;
+    border-top-left-radius: 80px 80px;
+    border-top-right-radius: 80px 80px;
+}
