@@ -119,5 +119,16 @@ font-weight: 600;
 .bottom-btn
 {
 
+    height: 40px;
+    width: 80px;
+    background-color:rgb(245, 121, 142);
+    border-radius: 4px;
+    border: 0;
+}
+
+.container-fourth
+{
+    background-color: rgb(251, 227, 227);
+    margin-top: 100px;
 }
 
